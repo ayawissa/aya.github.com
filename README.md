@@ -23,10 +23,7 @@
   </div>
     <div class="desc">
       <div class="text1">
-<h1>Gauss & Gauss-Saidle & Jacobi</h1>
-<h3>L'algorithme de Gauss est base sur la </h3>
-<br>
-<h3> recherche de solutions la matrice</h3>
+<h1>Gauss & Gauss-seidel & Jacobi</h1>
 </div>
 </div>
 <!-- <div class="btn1">
@@ -65,8 +62,3 @@
   </div> -->
 
 
-
-
-<script src="main.js"></script>
-</body>
-</html>
